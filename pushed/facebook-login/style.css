@@ -55,5 +55,9 @@ p {
     width: 190px;
 }
 
+.header {
+    width: 301px;
+    height: 106px;
+}
 
 /* the line in <hr> not showing */

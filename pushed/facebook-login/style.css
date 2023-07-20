@@ -60,4 +60,9 @@ p {
     height: 106px;
 }
 
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
 /* the line in <hr> not showing */
